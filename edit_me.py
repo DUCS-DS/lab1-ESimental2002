@@ -1,4 +1,4 @@
-#finished quality content
+#Ethan Simental
 def find_max(lst):
 
 
